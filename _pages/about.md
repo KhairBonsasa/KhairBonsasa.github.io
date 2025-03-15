@@ -9,9 +9,10 @@ profile:
   image: meche.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Bâtiment Léonard de Vinci</p>
-    <p>21 avenue Jean Capelle</p>
-    <p>69621 Villeurbanne, France</p>
+    <p>From Mérida, Venezuela</p>
+    <p>Based in Lyon, France</p>
+
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
