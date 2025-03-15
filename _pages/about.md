@@ -9,8 +9,8 @@ profile:
   image: meche.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>From Mérida, Venezuela</p>
-    <p>Based in Lyon, France</p>
+    <p>🏠 From Mérida, Venezuela</p>
+    <p>🌐 Based in Lyon, France</p>
 
 
 
