@@ -8,6 +8,6 @@ related_posts: false
 
 **Conference Presentation at [IEEE ICECCME 2023](https://ieeexplore.ieee.org/xpl/conhome/10252163/proceeding)**
 &nbsp;  
-📍 Tenerife, Canary Islands, Spain 🇪🇸
+📍 Tenerife, Canary Islands 🇮🇨, Spain 🇪🇸🇮
 
 ***
