@@ -6,7 +6,7 @@ subtitle: PhD student in Signal and Image Processing | <a href='https://www.crea
 
 profile:
   align: right
-  image: prof_pic.png
+  image: meche.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Bâtiment Léonard de Vinci</p>
@@ -28,6 +28,6 @@ announcements:
 ---
 
 
-I am a **PhD student in Signal and Image Processing** at **Laboratoire CREATIS**, **Université Claude Bernard Lyon 1**, **INSA-Lyon**, **CNRS**, and **Inserm (CREATIS UMR 5220)**. My research explores the fusion of **deep learning and computer vision** for **3D image segmentation and registration**. 
+I am a **PhD student in Signal and Image Processing** at **Laboratoire CREATIS (UMR 5220)**, **Université Claude Bernard Lyon 1**, **INSA-Lyon**, **CNRS**, and **Inserm**. My research explores the fusion of **Deep Learning and Computer Vision** for **3D image segmentation and registration**. 
 
 I graduated **Summa Cum Laude** from the [Master of Science in Artificial Intelligence](https://www.javeriana.edu.co/maestria-inteligencia-artificial) at **Pontificia Universidad Javeriana** and was honored as **Valedictorian** in my [Biomedical Engineering Bachelor's](https://www.escuelaing.edu.co/es/programas/ingenieria-biomedica/). My research interests include **image processing, computer graphics, data analysis, and machine learning-based biomedical applications.**
