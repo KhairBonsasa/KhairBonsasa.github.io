@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Creation of this website ! 🎂
+🚀 Creation of this website!
 
 ***

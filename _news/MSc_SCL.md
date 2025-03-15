@@ -5,6 +5,9 @@ inline: true
 related_posts: false
 ---
 
-Summa Cum Laude Laurated in the MSc. in Artificial Intelligence!
+🎓 **Summa Cum Laude Laureate** – *MSc. in Artificial Intelligence*!  
+&nbsp;
+📍 Bogotá, Colombia 🇨🇴  
+
 
 ***

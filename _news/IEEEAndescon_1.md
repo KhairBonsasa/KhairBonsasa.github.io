@@ -1,11 +1,13 @@
 ---
 layout: post
-title: ANDESCON 2021
-date: 2021-11-16 
+title: ANDESCON 2022
+date: 2022-11-16 
 inline: true
 related_posts: false
 ---
 
-[IEEE ANDESCON 2021](https://ieeexplore.ieee.org/xpl/conhome/9989530/proceeding)
+**Conference Presentation at [IEEE ANDESCON 2022](https://ieeexplore.ieee.org/xpl/conhome/9989530/proceeding)**
+&nbsp;  
+📍 Barranquilla, Colombia 🇨🇴  
 
 ***

@@ -5,6 +5,9 @@ inline: true
 related_posts: false
 ---
 
-Valedictorian Honor Graduate Laurated in the BSc. in Biomedical Engineering!
+🎓 **Valedictorian Honor Graduate** – *BSc. in Biomedical Engineering*!  
+&nbsp;
+📍 Bogotá, Colombia 🇨🇴  
+
 
 ***

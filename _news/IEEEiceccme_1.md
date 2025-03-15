@@ -6,6 +6,8 @@ inline: true
 related_posts: false
 ---
 
-Presented in [IEEE ICECCME 2023](https://ieeexplore.ieee.org/xpl/conhome/10252163/proceeding)
+**Conference Presentation at [IEEE ICECCME 2023](https://ieeexplore.ieee.org/xpl/conhome/10252163/proceeding)**
+&nbsp;  
+📍 Tenerife, Canary Islands, Spain 🇪🇸
 
 ***

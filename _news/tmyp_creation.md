@@ -6,4 +6,6 @@ inline: true
 related_posts: false
 ---
 
-Creation of [*"through mis yeux project"*](https://www.instagram.com/through_misyeux_project/) 
+Creation of [**through mis yeux project 📷**](https://www.instagram.com/through_misyeux_project/) 
+
+***

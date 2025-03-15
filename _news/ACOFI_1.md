@@ -6,6 +6,9 @@ inline: true
 related_posts: false
 ---
 
-My first national Conference! [ACOFI 2021](https://acofipapers.org/index.php/eiei/article/view/1839)
+**My First National Conference Presentation at [ACOFI 2021](https://acofipapers.org/index.php/eiei/article/view/1839)**
+&nbsp;  
+📍 Cartagena, Colombia 🇨🇴  
+ 
 
 ***

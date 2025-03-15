@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-My first article citation! 🎉
+🎉 **My First Article Citation!** 📖  
 
 ***
