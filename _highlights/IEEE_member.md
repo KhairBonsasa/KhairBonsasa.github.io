@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-Became **IEEE Undergraduate Student Member** (*Institute of Electrical and Electronics Engineers*)[https://www.ieee.org/] 
+Became **IEEE Undergraduate Student Member** ([*Institute of Electrical and Electronics Engineers*](https://www.ieee.org/))
 &nbsp;  
 - Colombian Chapter 🇨🇴  
  
