@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Geospatial Enthusiast | <a href='https://www.creatis.insa-lyon.fr/site/fr'>Laboratoire CREATIS</a> | <a href='https://www.creatis.insa-lyon.fr/site/fr/equipe-de-recherche/myriad'>MYRIAD team</a> | Université Claude Bernard Lyon I 
+subtitle: Geospatial Enthusiast |  
 
 profile:
   align: right
-  image: meche.png
+  image: Khaire.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>🏠 From Kansas City, MO 🇻🇪</p>
