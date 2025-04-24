@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
-description: A collection of my repositories and projects on GitHub.
+permalink: /conferences/
+title: conferences
+description: A history of conferences I've attended in chronological order.
 nav: true
 nav_order: 4
 ---
