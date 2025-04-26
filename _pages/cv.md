@@ -1,7 +1,7 @@
 ---
 layout: cv
-permalink: /resume/
-title: resume
+permalink: /cv/
+title: cv
 description: An overview of my professional background.
 nav: true
 nav_order: 5

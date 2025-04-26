@@ -146,7 +146,7 @@ collections:
   highlights:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
     output: false
 
@@ -190,9 +190,8 @@ exclude:
   - readme_preview/
   - vendor
   - _posts/
-  - _publications/
+  - _pages/publications.md
   - _pages/teaching.md
-  - _pages/projects.md
   - _pages/blog.md
   - _pages/books.md
   - _books
@@ -268,8 +267,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Marquez-Sosa, Márquez-Sosa, Marquez Sosa, Márquez]
-  first_name: [María M., María, María M. M.]
+  last_name: [Bonsasa, Bonsasa, Bonsasa, Bonsasa]
+  first_name: [Khair, Khair, Khair]
 
   style: apa
   locale: en
