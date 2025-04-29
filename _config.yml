@@ -84,8 +84,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Image Processing # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Khair News # blog_name will be displayed in your blog page
+blog_description: Stay in touch with my latest talks and achievements
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -113,14 +113,14 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: mmarquezsosa # put your disqus shortname
+disqus_shortname: khairbonsasa # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 #external_sources:
- # - name: medium.comhttps://mmarquezsosa.github.io/
+ # - name: medium.comhttps://khairbonsasa.github.io/
   #  rss_url: https://medium.com/@al-folio/feed
   #- name: Google Blog
   #  posts:
@@ -189,12 +189,21 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _posts/
   - _pages/publications.md
   - _pages/teaching.md
-  - _pages/blog.md
   - _pages/books.md
   - _books
+  - _posts/2018-12-22-distill.md
+  - _posts/2023-03-21-tables.md
+  - _posts/2023-04-24-videos.md
+  - _posts/2023-04-25-audios.md
+  - _posts/2023-04-25-sidebar-table-of-contents.md
+  - _posts/2023-07-04-jupyter-notebook.md
+  - _posts/2024-01-26-chartjs.md
+  - _posts/2024-01-26-echarts.md
+  - _posts/2024-01-26-geojson-map.md
+  - _posts/2024-01-27-advanced-images.md
+  - _posts/2024-04-28-post-citation.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -259,8 +268,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

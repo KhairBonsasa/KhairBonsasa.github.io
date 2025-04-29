@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: ArcGIS Advisory Tool for Credit Management
+title: ArcGIS Advisory Tool for Credit Management
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
 description: Projects at the Intersection of Signal Processing, Modeling, and Personal Tooling
 nav: true
