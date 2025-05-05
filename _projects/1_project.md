@@ -2,7 +2,7 @@
 layout: page
 title: ArcGIS Advisory Tool for Credit Management
 description: 
-img: assets/img/12.jpg
+img: assets/img/Trimble.jpg
 importance: 1
 category: work
 related_publications: true

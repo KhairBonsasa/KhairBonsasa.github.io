@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Geospatial Enthusiast |  
+subtitle: Geospatial Enthusiast   
 
 profile:
   align: right

@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Projects at the Intersection of Signal Processing, Modeling, and Personal Tooling
+description: Professional and Personal Projects
 nav: true
 nav_order: 2
 display_categories: [work, fun]
